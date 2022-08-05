@@ -2,6 +2,7 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <ul>
   <li> 
       <a href="#Pilot-GitHub-Repository-Setup">Pilot-GitHub-Repository-Setup</a>
 
@@ -18,8 +19,10 @@
       <a href="###Step-6:-Installation">Installation</a> 
 
       <a href="###Step-7:-Other-Actions">Other Actions</a>
-       </ol>
-        
+       </ul
+      </li> 
+      </ol>
+    
  
 </details> 
         
