@@ -7,15 +7,15 @@
 <li> Navigate to a user request issue or create a new issue detailing the user that is getting added </li>
 <li> Add a comment to the issue with the /invite user.email@va.gov </li>
  *Note: To have access to the /invite command you must be a member of the github-support Triage team* 
-</br>
-### Step 2:GitHub Teams Management
-<b>Creating GitHub Teams </b>
-  <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
-  <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va"><strong> Creating Teams Link</a></li>
-<b>Managing Teams</b>
-  <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types </a></li>
-  <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
-  <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a>
+
+<h2> Step 2:GitHub Teams Management
+  <h4>Creating GitHub Teams</h4>
+    <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
+    <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va"><strong> Creating Teams Link</a></li>
+    <h4>Managing Teams</h4>
+     <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types </a></li>
+    <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
+    <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a>
 
 ### Step 3: Cloning Repository  
 <a> https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va </a>
