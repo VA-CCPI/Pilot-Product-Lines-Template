@@ -20,9 +20,9 @@
       </ul>
       
   <h2> Step 3: Cloning Repositories
-    <ul>
+    
     <h3> Pilot Repository Setup: Cloning the <b>CCPI Repository Template<b></h3>
-      <ul>
+      
    <li>Once you have created a team in the GitHub Veteran Affairs Organization, click the Repositories tab and select the green 
      "New" button next to the search bar.</li>
       <li>Next, you will select the department-of-veteran-affairs/ccpi/pilot-code-template option.</li>
