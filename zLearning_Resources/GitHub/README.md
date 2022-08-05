@@ -57,25 +57,24 @@ add, and remove files, and push larger commits locally and easily. </a><ul>
 <li>To clone an existing repository:<ul> 
 1.On the main page of the GitHub repository, click the iconat the top right of the window. <ul> 
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <ul> 
-</ul>
- </ul>
- 
-  
+<\ul>
+<\ul>
 ### Step 4: Managing Repository </a><ul>
 ##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a><ul>
-  
+<\ul>  
 ### Step 5: Standard-Naming-Conventions </a>
-
+<\ul>
 ### Step 6: Installation <ul>
 #### Github Desktop Installation <ul>
 Click on the Software Center on your desktop. <ul>
 <img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25"> </a>
   Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.</a>
   <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80"> </a>
-
+<\ul>
 #### Git Installation </a>
 
-
+<ul>
 ### Step 7: Other Actions </a>
 #### Creating a README.md for your GitHub Repository </a>
 ####
+<\ul>
