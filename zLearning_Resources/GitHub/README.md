@@ -18,11 +18,9 @@
        <a href="###Step-6:-Installation">Installation</a><ul>
        <li>
        <a href="###Step-7:-Other-Actions">Other Actions</a><ul>
-        <\li>
-          <\li>   
+       <\li>
         <\ul>
-        <\ul>
-       </ol>
+       <\ol>
         
  
 </details> 
