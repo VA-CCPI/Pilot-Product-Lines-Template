@@ -56,8 +56,8 @@ https://department-of-veterans-affairs.github.io/github-handbook/github-repo-set
 add, and remove files, and push larger commits locally and easily. </a><ul>
 <li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </a> 
 <li>To clone an existing repository:</a> 
-1.On the main page of the GitHub repository, click the iconat the top right of the window. <a/> 
-2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <a/>
+1.On the main page of the GitHub repository, click the iconat the top right of the window. </a> 
+2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. </a>
 
   
 ### Step 4: Managing Repository
