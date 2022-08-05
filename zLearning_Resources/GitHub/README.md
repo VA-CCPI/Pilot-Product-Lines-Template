@@ -15,14 +15,14 @@
 ### Step 2: Creating and Managing Pilot GitHub Teams 
 #### Team Types 
   <ul> https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx </ul>
-##### Creating Teams
+#### Creating Teams
 <ul> https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va </ul>
- ##### Managing Teams</a>
+ #### Managing Teams
  Consider Github Account Types
  <ul> https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts </ul>
- ##### Separate Duties </a>
+ #### Separate Duties 
  <ul> https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va <ul>
- ###### Permissions </a>
+ ##### Permissions 
  <ul>https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions </ul>
 
 
