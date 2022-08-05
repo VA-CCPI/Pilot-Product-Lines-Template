@@ -5,13 +5,15 @@
     <li>
       <a href="#Pilot-GitHub-Repository-Setup">Pilot-GitHub-Repository-Setup</a>
       <ul><li>
-      <a href="###Step-1:-Access-to-Veteran-Affairs-Enterprise-at-GitHub.com">VA Enterprise GitHub Access</a> <ul> <\li> <\li>
+      <a href="###Step-1:-Access-to-Veteran-Affairs-Enterprise-at-GitHub.com">VA Enterprise GitHub Access</a> <ul> </li> 
       <li>
-       <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><ul> <\li> <\li>
+       <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><ul> </li> 
+      </ul>
+    </li>
+     <li>
+        <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul> </li>
       <li>
-        <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul> <\li><\li>
-      <li>
-       <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul><\li><\li>
+       <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul></li></li>
       <li>
       <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a> <ul><\li><\li>
       <li>
@@ -57,8 +59,7 @@ add, and remove files, and push larger commits locally and easily. </a><ul>
 <li>To clone an existing repository:</a> 
 1.On the main page of the GitHub repository, click the iconat the top right of the window. </a> 
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. </a> 
-<\ul>
-<\ul>
+
 ### Step 4: Managing Repository </a>
 ##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a>
   
