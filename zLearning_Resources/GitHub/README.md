@@ -46,30 +46,30 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
  ##### Separate Duties </a>
  <li>https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va </a>
  ###### Permissions </a>
- <li>https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
+ <li>https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions </a>
 
 
 ### Step 3: Cloning Repository  <ul>
-https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va <ul>
-<li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, <ul>
+https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va </a>
+<li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, </a>
 add, and remove files, and push larger commits locally and easily. </a><ul>
-<li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  <ul> 
-<li>To clone an existing repository:<ul> 
-1.On the main page of the GitHub repository, click the iconat the top right of the window. <ul> 
-2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <ul> 
+<li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </a> 
+<li>To clone an existing repository:</a> 
+1.On the main page of the GitHub repository, click the iconat the top right of the window. </a> 
+2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. </a> 
 <\ul>
 <\ul>
-### Step 4: Managing Repository </a><ul>
-##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a><ul>
+### Step 4: Managing Repository </a>
+##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a>
   
 ### Step 5: Standard-Naming-Conventions </a>
 
-### Step 6: Installation <ul>
-#### Github Desktop Installation <ul>
-Click on the Software Center on your desktop. <ul>
-<img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25"> <ul>
+### Step 6: Installation </a>
+#### Github Desktop Installation </a>
+Click on the Software Center on your desktop. </a>
+<img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25"> </a>
   Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.</a>
-  <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80"> <ul>
+  <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80"> </a>
 
 #### Git Installation </a>
 
