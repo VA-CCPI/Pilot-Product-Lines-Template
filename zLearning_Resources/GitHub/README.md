@@ -9,14 +9,14 @@
 *Note: To have access to the /invite command you must be a member of the github-support Triage team* <b>
 
 <h2> Step 2:GitHub Teams Management </h2>
-  <h4>Creating GitHub Teams</h4>
+  <h4>Creating GitHub Teams</h4> <ul>
     <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va"><strong> Creating Teams Link</a></li>
     <h4>Managing Teams</h4>
      <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a>
-
+</ul
   <h2> Step 3: Cloning Repositories
     <h3> Pilot Repository Setup: Cloning the <b>CCPI Repository Template<b></h3>
    <li>Once you have created a team in the GitHub Veteran Affairs Organization, click the Repositories tab and select the green 
