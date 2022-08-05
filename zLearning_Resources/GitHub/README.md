@@ -9,7 +9,7 @@
       <li>
        <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><ul> <\li> <\li>
       <li>
-        <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><\ul> <\li><\li>
+        <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul> <\li><\li>
       <li>
        <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul><\li><\li>
       <li>
@@ -19,7 +19,7 @@
        <li>
        <a href="###Step-7:-Other-Actions">Other Actions</a><ul><\li>
 
-       <ol>
+       </ol>
         
  
 </details> 
