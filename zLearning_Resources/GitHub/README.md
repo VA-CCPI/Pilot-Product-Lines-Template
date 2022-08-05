@@ -2,11 +2,11 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li>
+    
       
       <a href="#Pilot-GitHub-Repository-Setup">Pilot-GitHub-Repository-Setup</a>
       
-        
+        </div>  
       <a href="###Step-1:-Access-to-Veteran-Affairs-Enterprise-at-GitHub.com">VA Enterprise GitHub Access</a> 
       
         
