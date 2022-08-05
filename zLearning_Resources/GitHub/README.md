@@ -23,7 +23,7 @@
  
 </details> 
         
-## Pilot GitHub Repository Setup 
+## Pilot GitHub Repository Setup </a> <ul>
 ### Step 1: Access to Veteran Affairs Enterprise at GitHub.com 
 https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account <ul>
 
