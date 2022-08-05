@@ -9,15 +9,15 @@
       <li>
        <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><ul>
       <li>
-      <a href="###Step-3:-Cloning-Repository">Cloning Repository</a></ul>
+      <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul>
       <li>
-       <a href="###Step-4:-Managing-Repository">Managing Repository</a> </ul>
+       <a href="###Step-4:-Managing-Repository">Managing Repository</a> <ul>
       <li>
-      <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a> </ul>
+      <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a> <ul>
       <li>
-       <a href="###Step-6:-Installation">Installation</a></ul>
+       <a href="###Step-6:-Installation">Installation</a><ul>
        <li>
-       <a href="###Step-7:-Other-Actions">Other Actions</a></ul>
+       <a href="###Step-7:-Other-Actions">Other Actions</a><ul>
         <\li>
           <\li>   
         <\ul>
@@ -52,7 +52,7 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
  https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
 
 
-### Step 3: Cloning Repository <ul> <ol>
+### Step 3: Cloning Repository <ul> 
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va </a>
 <li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, </a>
 add, and remove files, and push larger commits locally and easily. </a><ul>
