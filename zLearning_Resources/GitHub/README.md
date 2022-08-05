@@ -9,15 +9,15 @@
       <li>
        <a href="###Step 2: Creating and Managing Pilot GitHub Teams">Creating and Managing Pilot GitHub Teams</a><ul>
       <li>
-      <a href="###Step-3:-Cloning-Repository">Cloning Repository</a><ul>
+      <a href="###Step-3:-Cloning-Repository">Cloning Repository</a></ul>
       <li>
        <a href="###Step-4:-Managing-Repository">Managing Repository</a> </ul>
       <li>
       <a href="###Step-5:-Standard-Naming-Conventions">Naming Conventions</a> </ul>
       <li>
-       <a href="###Step-6:-Installation">Installation</a><ul>
+       <a href="###Step-6:-Installation">Installation</a></ul>
        <li>
-       <a href="###Step-7:-Other-Actions">Other Actions</a><ul>
+       <a href="###Step-7:-Other-Actions">Other Actions</a></ul>
         <\li>
           <\li>   
            
