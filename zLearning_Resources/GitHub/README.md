@@ -7,10 +7,10 @@
 
 #### Onboarding Other Users
 ###### Adding Users Through Github-Support
-  <li> Navigate to github-support issues </li>
+<li> Navigate to github-support issues </li>
 <li> Navigate to a user request issue or create a new issue detailing the user that is getting added </li>
-  <li> Add a comment to the issue with the /invite user.email@va.gov </li>
-    *Note: To have access to the /invite command you must be a member of the github-support Triage team* 
+<li> Add a comment to the issue with the /invite user.email@va.gov </li>
+ *Note: To have access to the /invite command you must be a member of the github-support Triage team* 
 
 ### Step 2: Creating and Managing Pilot GitHub Teams 
 #### Team Types 
