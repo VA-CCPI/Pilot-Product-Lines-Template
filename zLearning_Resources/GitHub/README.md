@@ -41,13 +41,13 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
 ##### Creating Teams </a>
  https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va </a>
  ##### Managing Teams</a>
- </li>Consider Github Account Types
+ <li>Consider Github Account Types
  https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts </a>
  ##### Separate Duties </a>
- </li>https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va </a>
+ <li>https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va </a>
  ###### Permissions </a>
- </li>https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
-</ul>
+ <li>https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
+
 
 ### Step 3: Cloning Repository  <ul>
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va <ul>
@@ -61,20 +61,20 @@ add, and remove files, and push larger commits locally and easily. </a><ul>
 <\ul>
 ### Step 4: Managing Repository </a><ul>
 ##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a><ul>
-<\ul>  
+  
 ### Step 5: Standard-Naming-Conventions </a>
-<\ul>
+
 ### Step 6: Installation <ul>
 #### Github Desktop Installation <ul>
 Click on the Software Center on your desktop. <ul>
-<img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25"> </a>
+<img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25"> <ul>
   Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.</a>
-  <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80"> </a>
-<\ul>
+  <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80"> <ul>
+
 #### Git Installation </a>
 
-<ul>
+
 ### Step 7: Other Actions </a>
 #### Creating a README.md for your GitHub Repository </a>
 ####
-<\ul>
+
