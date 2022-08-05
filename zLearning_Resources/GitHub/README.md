@@ -13,25 +13,27 @@
     <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va"><strong> Creating Teams Link</a></li>
     <h4>Managing Teams</h4>
-     <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types </a></li>
+     <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a>
 
-  <h2> Step 3: Cloning Repository </h2>
+  <h2> Step 3: Cloning Repositories
+    <h3> Pilot Repository Setup: Cloning the <b>CCPI Repository Template<b></h3>
    <li>Once you have created a team in the GitHub Veteran Affairs Organization, click the Repositories tab and select the green 
      "New" button next to the search bar.</li>
       <li>Next, you will select the department-of-veteran-affairs/ccpi/pilot-code-template option.</li>
       <li>Then, you name make your main repository <b>[pilot-name]-[code]<b> </li>
-      <li>Consider whether you want to create a public or private repository. If you choode to enable internal visability, the admin will nonetheless have the control overactions and roles that affect the repository. </li>
-  
-      <a> https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va </a>
-  -Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, 
-  add, and remove files, and push larger commits locally and easily. 
-  <li> Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  </li>
+      <li>Consider whether you want to create a public or private repository. If you choode to enable internal visability, the admin will
+        nonetheless have the control overactions and roles that affect the repository. </li>
+      <li> For more information on cloning or creating repositories, check out the following link:
+     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </a></li>
+  <h3> Clonining Individual Repositories to User Desktops
+  <li>Users may clone their pilot's repository to create a full copy on the user’s computer, allowing the user to make edits, 
+    add, and remove files, and push larger commits locally and more easily. </li> 
+  <li> By cloning to their computer, changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.</li>
   <li> To clone an existing repository: </li>
       1. On the main page of the GitHub repository, click the iconat the top right of the window.  
       2. Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line.
-
 
  <h2> Step 4: Managing Repository </h2>
  <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data"><strong> Change Repository Visibility </a>
