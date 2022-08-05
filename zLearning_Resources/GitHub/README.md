@@ -10,7 +10,7 @@
 
 ### Step 2: Creating and Managing Pilot GitHub Teams 
 #### Team Types 
-  <a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types </a>
+  <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types </a></li>
 #### Creating Teams
 <a> https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va </a>
 #### Managing Teams
