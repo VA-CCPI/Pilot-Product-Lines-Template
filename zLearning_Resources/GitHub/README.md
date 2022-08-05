@@ -60,21 +60,21 @@ add, and remove files, and push larger commits locally and easily. </a><ul>
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. </a>
 
   
-### Step 4: Managing Repository
-##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data
+### Step 4: Managing Repository </a>
+##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data</a>
   
-### Step 5: Standard-Naming-Conventions
+### Step 5: Standard-Naming-Conventions <a/>
 
-### Step 6: Installation
-#### Github Desktop Installation
+### Step 6: Installation </a>
+#### Github Desktop Installation </a>
 Click on the Software Center on your desktop.
 <img src="https://user-images.githubusercontent.com/105750400/182799638-8b986305-3726-499f-92df-ae319d04c2c6.png" alt="Logo" width="100" height="25">
   Next, download the GitHub Desktop application and following the instructions displayed from the application once downloaded.
   <img src="https://user-images.githubusercontent.com/105750400/182800055-dccd42af-a1ba-4c8b-9aa1-f3fde39f74e5.png" alt="Logo" width="50" height="80">
 
-#### Git Installation
+#### Git Installation </a>
 
 
-### Step 7: Other Actions
+### Step 7: Other Actions </a>
 #### Creating a README.md for your GitHub Repository
 ####
