@@ -7,7 +7,7 @@
 <li> Navigate to a user request issue or create a new issue detailing the user that is getting added </li>
 <li> Add a comment to the issue with the /invite user.email@va.gov </li>
  *Note: To have access to the /invite command you must be a member of the github-support Triage team* 
-
+</br>
 ### Step 2:GitHub Teams Management
 <b>Creating GitHub Teams </b>
   <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
