@@ -1,8 +1,8 @@
-<h1> Pilot GitHub Repository Setup 
+<h1> Pilot GitHub Repository Setup </h1>
 <h2> Step 1: Access to Veteran Affairs Enterprise at GitHub.com 
 <a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account"> <strong>Github Handbook: Getting Access </a>
 
-<h3> Onboarding Other Users: Adding Users Through Github-Support </h2>
+<h3> Onboarding Other Users: Adding Users Through Github-Support </h3>
 <li> 1. Navigate to github-support issues </li>
 <li> 2. Navigate to a user request issue or create a new issue detailing the user that is getting added </li>
 <li> 3. Add a comment to the issue with the /invite user.email@va.gov </li>
