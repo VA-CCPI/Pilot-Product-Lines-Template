@@ -49,20 +49,22 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
  </li>https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va </a>
  ###### Permissions </a>
  </li>https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
-<ul>
+</ul>
 
 ### Step 3: Cloning Repository  <ul>
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va <ul>
-</li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, <ul>
+<li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, <ul>
 add, and remove files, and push larger commits locally and easily. </a><ul>
-</li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  <ul> 
-</li>To clone an existing repository:<ul> 
+<li>Changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.  <ul> 
+<li>To clone an existing repository:<ul> 
 1.On the main page of the GitHub repository, click the iconat the top right of the window. <ul> 
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. <ul> 
-<\ul>
- <\ul>
+</ul>
+ </ul>
+ 
+  
 ### Step 4: Managing Repository </a><ul>
-##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a>
+##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a><ul>
   
 ### Step 5: Standard-Naming-Conventions </a>
 
