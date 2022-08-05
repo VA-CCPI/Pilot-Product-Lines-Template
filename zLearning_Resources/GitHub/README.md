@@ -38,7 +38,7 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
     *Note: To have access to the /invite command you must be a member of the github-support Triage team* </a>
 
 
-### Step 2: Creating and Managing Pilot GitHub Teams 
+ ### Step 2: Creating and Managing Pilot GitHub Teams </a><ul>
 #### Team Types https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx </a>
 ##### Creating Teams </a>
  https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va </a>
@@ -51,7 +51,7 @@ https://department-of-veterans-affairs.github.io/github-handbook/guides/onboardi
  </li>https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions
 <ul>
 
-### Step 3: Cloning Repository 
+### Step 3: Cloning Repository  </a> <ul>
 https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va <ul>
 </li>Cloning an existing GitHub repository will create a full copy on the user’s computer, allowing the user to make edits, </a>
 add, and remove files, and push larger commits locally and easily. </a><ul>
@@ -61,10 +61,10 @@ add, and remove files, and push larger commits locally and easily. </a><ul>
 2.Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. </a> 
 <ul>
   
-### Step 4: Managing Repository </a> <ul>
+### Step 4: Managing Repository </a><ul>
 ##### Change Repository Visibility: https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data </a>
   
-### Step 5: Standard-Naming-Conventions <a/>
+### Step 5: Standard-Naming-Conventions </a>
 
 ### Step 6: Installation <ul>
 #### Github Desktop Installation <ul>
