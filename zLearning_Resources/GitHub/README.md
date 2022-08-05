@@ -9,16 +9,20 @@
 *Note: To have access to the /invite command you must be a member of the github-support Triage team* <b>
 
 <h2> Step 2:GitHub Teams Management </h2>
-  <h4>Creating GitHub Teams</h4> <ul>
+  <ul>
+  <h4>Creating GitHub Teams</h4> 
     <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va"><strong> Creating Teams Link</a></li>
     <h4>Managing Teams</h4>
      <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a>
-</ul
+      </ul>
+      
   <h2> Step 3: Cloning Repositories
+    <ul>
     <h3> Pilot Repository Setup: Cloning the <b>CCPI Repository Template<b></h3>
+      <ul>
    <li>Once you have created a team in the GitHub Veteran Affairs Organization, click the Repositories tab and select the green 
      "New" button next to the search bar.</li>
       <li>Next, you will select the department-of-veteran-affairs/ccpi/pilot-code-template option.</li>
@@ -27,13 +31,17 @@
         nonetheless have the control overactions and roles that affect the repository. </li>
       <li> For more information on cloning or creating repositories, check out the following link:
      <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </a></li>
+       <ul
        <h3> Cloning Individual Repositories to User Desktops</h3>
+        <ul>
   <li>Users may clone their pilot's repository to create a full copy on the user’s computer, allowing the user to make edits, 
     add, and remove files, and push larger commits locally and more easily. </li> 
   <li> By cloning to their computer, changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.</li>
   <li> To clone an existing repository: </li>
       1. On the main page of the GitHub repository, click the iconat the top right of the window.  
       2. Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line.
+          </ul>
+            </ul>
 
  <h2> Step 4: Managing Repository </h2>
  <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data"><strong> Change Repository Visibility </a>
