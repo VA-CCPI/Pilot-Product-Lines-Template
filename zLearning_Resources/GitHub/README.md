@@ -23,14 +23,15 @@
     <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a> </li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va"><strong> Creating Teams Link</a> </li>
   </ul>
+  </ul>
+  <ul>
   <h3>Managing Teams</h3>
   <ul>
      <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a></li>
   </ul>
-  </ul>
- 
+  </ul> 
      
   <h2> Step 3: Cloning Repositories </h2>
  <ul>
@@ -54,7 +55,7 @@
          1. On the main page of the GitHub repository, click the iconat the top right of the window.  
          2. Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line.
         </ul>
-              
+  </ul>              
  
 <h2> Step 4: Managing Repository </h2>
   <ul>
