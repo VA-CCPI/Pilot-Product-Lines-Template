@@ -19,7 +19,7 @@
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a>
       </ul>
       
-  <h2> Step 3: Cloning Repositories
+  <h2> Step 3: Cloning Repositories </h2>
     
     <h3> Pilot Repository Setup: Cloning the <b>CCPI Repository Template<b></h3>
       
