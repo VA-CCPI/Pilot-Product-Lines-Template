@@ -1,13 +1,20 @@
 <h1> Pilot GitHub Repository Setup </h1>
-<h2> Step 1: Access to Veteran Affairs Enterprise at GitHub.com </h2>
-<ul> <li> Getting access to the Department of Veteran Affairs Organization: </li> <a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account"> <strong>Reference the VA Github Handbook</a>
- </ul>
- <h3><b> Onboarding Other Users: Adding Users Through Github-Support </b></h3>
-<li> 1. Navigate to github-support issues </li>
-<li> 2. Navigate to a user request issue or create a new issue detailing the user that is getting added </li>
-<li> 3. Add a comment to the issue with the /invite user.email@va.gov </li>
-<b>*Note: To have access to the /invite command you must be a member of the github-support Triage team* </b>
 
+<h2> Step 1: Access to Veteran Affairs Enterprise at GitHub.com </h2>
+  <ul> 
+ 
+ <h3>a. Getting access to the Department of Veteran Affairs Organization: </h3>
+  <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account"> <strong>Reference the VA Github Handbook</a></li>
+  </ul>
+  
+ <h3><b> b. Onboarding Other Users: Adding Users Through Github-Support </b></h3>
+   <ul>
+  <li> 1. Navigate to github-support issues </li>
+  <li> 2. Navigate to a user request issue or create a new issue detailing the user that is getting added </li>
+  <li> 3. Add a comment to the issue with the /invite user.email@va.gov </li>
+  <b>*Note: To have access to the /invite command you must be a member of the github-support Triage team* </b>
+  </ul>
+ 
 <h2> Step 2: GitHub Teams Management </h2>
  <ul>
   <h4>Creating GitHub Teams</h4> 
@@ -20,9 +27,10 @@
       </ul>
       
   <h2> Step 3: Cloning Repositories </h2>
-    
+  
   <h3> Pilot Repository Setup: Cloning the CCPI Repository Template</h3>
      <ul> 
+      
     <li> Once you have created a team in the GitHub Veteran Affairs Organization, click the Repositories tab and select the green 
      "New" button next to the search bar.</li>
       <li>Next, you will select the department-of-veteran-affairs/ccpi/pilot-code-template option.</li>
@@ -31,22 +39,27 @@
         nonetheless have the control overactions and roles that affect the repository. </li>
       <li> For more information on cloning or creating repositories, check out the following link:
      <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </a></li>
+       
        </ul>
+       
     <h3> Cloning Individual Repositories to User Desktops</h3>
-<ul>
+    <ul>
+     
     <li>Users may clone their pilot's repository to create a full copy on the user’s computer, allowing the user to make edits, 
        add, and remove files, and push larger commits locally and more easily. </li> 
      <li> By cloning to their computer, changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.</li>
      <li> To clone an existing repository: </li>
          1. On the main page of the GitHub repository, click the iconat the top right of the window.  
          2. Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line.
-             </ul>
+     </ul>
               
  
- <h2> Step 4: Managing Repository </h2>
- <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data"><strong> Change Repository Visibility </a>
+<h2> Step 4: Managing Repository </h2>
+  <ul>
+  <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data"><strong> Change Repository Visibility </a>
+  </ul>
 
-   <h2> Step 5: Standard-Naming-Conventions </h2>
+<h2> Step 5: Standard-Naming-Conventions </h2>
 
 ### Step 6: Installation 
 #### Github Desktop Installation 
