@@ -23,7 +23,7 @@
     <h4>Managing Teams</h4>
      <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
-    <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a>
+    <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a></li>
       </ul>
       
   <h2> Step 3: Cloning Repositories </h2>
