@@ -31,7 +31,7 @@
         nonetheless have the control overactions and roles that affect the repository. </li>
       <li> For more information on cloning or creating repositories, check out the following link:
      <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </a></li>
-       <ul
+       <ul>
        <h3> Cloning Individual Repositories to User Desktops</h3>
         <ul>
   <li>Users may clone their pilot's repository to create a full copy on the user’s computer, allowing the user to make edits, 
