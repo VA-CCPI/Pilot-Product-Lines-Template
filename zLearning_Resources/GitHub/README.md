@@ -25,7 +25,7 @@
   </ul>
   </ul>
   <ul>
-      <h3>Managing Teams</h3>
+  <h3>Managing Teams</h3>
   <ul>
      <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
@@ -34,15 +34,17 @@
  
      
   <h2> Step 3: Cloning Repositories </h2>
- 
-  <h4> Pilot Repository Setup: Cloning the CCPI Repository Template </h4>
+ <ul>
+  <h3> Pilot Repository Setup: Cloning the CCPI Repository Template </h3>
      <ul> 
+       
     <li> Once you have created a team in the GitHub Veteran Affairs Organization, click the Repositories tab and select the green 
      "New" button next to the search bar.</li>
       <li>Next, you will select the department-of-veteran-affairs/ccpi/pilot-code-template option.</li>
       <li>Then, you name make your main repository <b>[pilot-name]-[code]<b> </li>
       <li>Consider whether you want to create a public or private repository. If you choode to enable internal visability, the admin will nonetheless have the control over actions and roles that affect the repository. </li>
       <li> For more information on cloning or creating repositories, check out the following link: <a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </a></li>
+        
        </ul>
        
     <h3> Cloning Individual Repositories to User Desktops</h3>  
