@@ -2,13 +2,13 @@
 <h2> Step 1: Access to Veteran Affairs Enterprise at GitHub.com </h2>
 <a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account"> <strong>Github Handbook: Getting Access </a>
 
-<h3> Onboarding Other Users: Adding Users Through Github-Support </h3>
+</b><h3><b> Onboarding Other Users: Adding Users Through Github-Support </h3>
 <li> 1. Navigate to github-support issues </li>
 <li> 2. Navigate to a user request issue or create a new issue detailing the user that is getting added </li>
 <li> 3. Add a comment to the issue with the /invite user.email@va.gov </li>
 *Note: To have access to the /invite command you must be a member of the github-support Triage team* <b>
 
-<h2> Step 2:GitHub Teams Management </h2>
+<h2> Step 2: GitHub Teams Management </h2>
  <ul>
   <h4>Creating GitHub Teams</h4> 
     <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
