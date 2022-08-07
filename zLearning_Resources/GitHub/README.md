@@ -17,18 +17,22 @@
  
 <h2> Step 2: GitHub Teams Management </h2>
  <ul>
-  <h4>Creating GitHub Teams</h4> 
+  <h3>Creating GitHub Teams</h3> 
+  <ul>
     <li><a href="https://dvagov.sharepoint.com/sites/OITEPMOCMDepartment/SitePages/3.10-GitHub-Team-Types.aspx"><strong> Team Types Link</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-teams-in-the-va"><strong> Creating Teams Link</a></li>
-    <h4>Managing Teams</h4>
+  </ul>
+      <h3>Managing Teams</h3>
+  <ul>
      <li><a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts"><strong>Consider Github Account Types</a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/separate-duties-at-the-va"><strong>Separate Duties </a></li>
     <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/features/access-permissions"><strong> Permissions</a></li>
       </ul>
-      
+     </ul> 
+     
   <h2> Step 3: Cloning Repositories </h2>
-  
-  <h3> Pilot Repository Setup: Cloning the CCPI Repository Template</h3>
+ 
+  <h4> Pilot Repository Setup: Cloning the CCPI Repository Template </h4>
      <ul> 
       
     <li> Once you have created a team in the GitHub Veteran Affairs Organization, click the Repositories tab and select the green 
