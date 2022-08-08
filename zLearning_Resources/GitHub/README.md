@@ -49,7 +49,7 @@
   </ul>
   </ul>
     
-  <ul>      
+     
   <h4><b>Cloning Individual Repositories to User Desktops</b></h4>  
     <ul>
     <li>Users may clone their pilot's repository to create a full copy on the user’s computer, allowing the user to make edits,  add, and remove files, and push larger commits locally and more easily. </li> 
