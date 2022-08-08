@@ -48,7 +48,7 @@
   </ul>
   <ul>
        
-    <h3><b> Cloning Individual Repositories to User Desktops</b></h3>  
+  <h3><b>Cloning Individual Repositories to User Desktops</b></h3>  
   <ul>
     <li>Users may clone their pilot's repository to create a full copy on the user’s computer, allowing the user to make edits,  add, and remove files, and push larger commits locally and more easily. </li> 
     <li> By cloning to their computer, changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.</li>
