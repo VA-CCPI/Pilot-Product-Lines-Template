@@ -44,6 +44,8 @@
       <li> For more information on cloning or creating repositories, check out the following link: </li>
       <ul> <a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </strong></a></ul>   
   </ul>
+  </ul>
+  <ul>
 
        
     <h3> Cloning Individual Repositories to User Desktops</h3>  
