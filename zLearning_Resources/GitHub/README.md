@@ -7,7 +7,6 @@
    <ul>
   <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account"> <strong>Reference the VA Github Handbook</a></li>
   </ul>
-  </ul>
   
  <h3><b> b. Onboarding Other Users: Adding Users Through Github-Support </b></h3>
    <ul>
@@ -16,7 +15,8 @@
   <li> 3. Add a comment to the issue with the /invite user.email@va.gov </li>
   <b>*Note: To have access to the /invite command you must be a member of the github-support Triage team* </b>
   </ul>
- 
+  </ul>
+   
 <h2> Step 2: GitHub Teams Management </h2>
  <ul>
    <h3><b>Creating GitHub Teams</b></h3> 
