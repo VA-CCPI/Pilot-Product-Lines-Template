@@ -4,6 +4,7 @@
   <ul>
  
  <h3><b>a. Getting access to the Department of Veteran Affairs Organization:<b> </h3>
+   <ul>
   <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/guides/onboarding/getting-access#step-1-githubcom-account"> <strong>Reference the VA Github Handbook</a></li>
   </ul>
   </ul>
