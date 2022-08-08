@@ -42,20 +42,22 @@
       <li> Then, you name make your main repository <b>[pilot-name]-[code]</b> </li>
       <li> Consider whether you want to create a public or private repository. If you choode to enable internal visability, the admin will nonetheless have the control over actions and roles that affect the repository. </li>
       <li> For more information on cloning or creating repositories, check out the following link: </li>
-      <ul> <a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </strong></a></ul>   
+      <ul> <a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </strong></a></ul>  
+    
   </ul>
   </ul>
   <ul>
-
        
-    <h3> Cloning Individual Repositories to User Desktops</h3>  
-<ul>
+  <h3> Cloning Individual Repositories to User Desktops</h3>  
+  <ul>
     <li>Users may clone their pilot's repository to create a full copy on the user’s computer, allowing the user to make edits,  add, and remove files, and push larger commits locally and more easily. </li> 
     <li> By cloning to their computer, changes can be made to the repository directory folders and pushed to the GitHub repository using the command line.</li>
     <li> To clone an existing repository: </li>
     <ul>   1. On the main page of the GitHub repository, click the iconat the top right of the window.  </ul>
     <ul>   2. Select Download ZIP, Open in GitHub Desktop (See Step 6: Installation), or click the icon to copy the URL to enter into the command line. </ul>  
 </ul> 
+</ul>
+
 <h2> Step 4: Managing Repository </h2>
   <ul>
   <li><a href="https://department-of-veterans-affairs.github.io/github-handbook/github-release-linking-data"><strong> Change Repository Visibility </a></li>
