@@ -48,7 +48,7 @@
       <ul> <a href="https://department-of-veterans-affairs.github.io/github-handbook/github-repo-setup-in-the-va"> <strong>Github Handbook: Repo Setup </strong></a></ul>    
   </ul>
   </ul>
-    
+  <ul>  
      
   <h4><b>Cloning Individual Repositories to User Desktops</b></h4>  
     <ul>
